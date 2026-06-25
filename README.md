@@ -1,10 +1,16 @@
 <img width="772" height="686" alt="c 1" src="https://github.com/user-attachments/assets/94c3f9eb-c068-46e8-beb4-d2faf659732d" />
 
 
+<img width="562" height="636" alt="C2 1" src="https://github.com/user-attachments/assets/994a51f2-c0e3-475a-9486-0fd701379484" />
+
+
+
 <img width="737" height="697" alt="c 2" src="https://github.com/user-attachments/assets/13d104a2-7fdb-42e7-80b6-2924e3a5ab8c" />
 
 
+
 <img width="1257" height="647" alt="c3" src="https://github.com/user-attachments/assets/8e737927-cebf-4d29-b6ad-87bd694a30b5" />
+
 
 Official Artificial Intelligence Internship tasks completed at CodeAlpha.
 # 🚨 CODEALPHA OFFICIAL INTERNSHIP: ARTIFICIAL INTELLIGENCE PORTFOLIO 🤖
